@@ -115,8 +115,10 @@ shape = SubResource( 1 )
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 visible = false
-position = Vector2( 0, -48 )
-scale = Vector2( 1.5, 1.5 )
+position = Vector2( 0, -40 )
+scale = Vector2( 2, 2 )
 frames = SubResource( 19 )
 animation = "explode"
 script = ExtResource( 4 )
+
+[connection signal="animation_finished" from="AnimatedSprite" to="AnimatedSprite" method="_on_AnimatedSprite_animation_finished"]

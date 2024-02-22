@@ -5,8 +5,6 @@ func play_explode():
 	frame = 0
 	play("explode")
 
-func _on_explode_animation_finished():
+func _on_AnimatedSprite_animation_finished():
 	visible = false
-
-func _process(_delta):
-	pass
+	pass # Replace with function body.
