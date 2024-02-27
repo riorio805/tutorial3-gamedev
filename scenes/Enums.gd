@@ -1,14 +1,5 @@
 extends Node
 
-enum PlayerAnimState {
-	IDLE,
-	WALKING,
-	DASHING,
-	JUMPING,
-	FALLING
-}
+enum PlayerAnimState { IDLE, WALKING, DASHING, JUMPING, FALLING }
 
-enum Direction {
-	RIGHT,
-	LEFT
-}
+enum Direction { RIGHT, LEFT }

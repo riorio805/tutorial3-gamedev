@@ -22,6 +22,10 @@ z_index = 1
 [node name="Camera2D" type="Camera2D" parent="Player"]
 current = true
 zoom = Vector2( 2, 2 )
+smoothing_enabled = true
+smoothing_speed = 6.4
+drag_margin_left = 0.4
+drag_margin_right = 0.4
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = ExtResource( 1 )
