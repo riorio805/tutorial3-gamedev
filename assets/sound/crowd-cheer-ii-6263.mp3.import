@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/crowd-cheer-ii-6263.mp3-25fd46ec58eaa5ebfdf850a2ce650a10.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/crowd-cheer-ii-6263.mp3"
+dest_files=[ "res://.import/crowd-cheer-ii-6263.mp3-25fd46ec58eaa5ebfdf850a2ce650a10.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

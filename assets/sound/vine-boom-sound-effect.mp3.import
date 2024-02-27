@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/vine-boom-sound-effect.mp3-e4b5a08624e9068f2e4edfdbb8aa48f5.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/vine-boom-sound-effect.mp3"
+dest_files=[ "res://.import/vine-boom-sound-effect.mp3-e4b5a08624e9068f2e4edfdbb8aa48f5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
